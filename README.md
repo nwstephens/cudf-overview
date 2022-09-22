@@ -1,5 +1,5 @@
 # cuDF
 
-![](rapids-logo.png)
+![](rapids-logo.svg)
 
-[cuDF](https://github.com/rapidsai/cudf) is a GPU DataFrame library for loading, joining, aggregating, filtering, and otherwise manipulating data. It's a central library in the [RAPIDS](https://rapids.ai/).
+This repos contains an overview of [cuDF](https://github.com/rapidsai/cudf) -- a GPU DataFrame library for loading, joining, aggregating, filtering, and otherwise manipulating data. cuDF is a central library in the [RAPIDS](https://rapids.ai/) ecosystem. 
